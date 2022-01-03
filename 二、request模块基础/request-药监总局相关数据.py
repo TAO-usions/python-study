@@ -11,4 +11,4 @@ if __name__ == "__main__":
     with open('./huazhuangpin.html','w',encoding="utf-8") as fp:
         fp.write(response)
 
-        吃你
+        
